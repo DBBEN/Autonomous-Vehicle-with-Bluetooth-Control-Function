@@ -7,7 +7,7 @@ const uint8_t TRIG = 7;
 const uint8_t ECHO = 8;
 
 int turningDelay = 290;
-int minDist = 40;//minimum distance that the sensor should detect
+int minDist = 40;//minimum distance that the sensor should detect obstacle
 const uint8_t inA1 = 2; 
 const uint8_t inA2 = 3;
 const uint8_t inB1 = 4;
